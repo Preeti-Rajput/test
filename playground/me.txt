@@ -1,5 +1,0 @@
-{{#user}
-Name: Preeti Rajput
-Skills: Python, Django, HTML, CSS, JS
-Email: preetirajput748@gmail.com
-{{/user}}
